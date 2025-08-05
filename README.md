@@ -20,5 +20,5 @@ O objetivo foi desenvolver **a seção principal de um perfil do LinkedIn**, foc
 - Estruturação semântica com HTML5
 - Responsividade básica com Flexbox
 - Leitura de layout no Figma
-
 ---
+
